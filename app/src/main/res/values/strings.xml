@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> How to Create Notification Using Kotlin</string>
+
+
+
+    <string name="content">Content</string>
+    <string name="title">Title</string>
+    <string name="high">HIGH</string>
+    <string name="low">LOW</string>
+</resources>
